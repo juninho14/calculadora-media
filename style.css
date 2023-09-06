@@ -3,22 +3,22 @@
 body {
     font-family: 'Raleway', monospace;
     background-image: url('imagens/fundo.png');
-    background-color: #000000;
+    background-color: #42299b;
     background-position: center bottom;
     background-repeat: no-repeat;
 }
 
 .container {
     text-align: center;
-    padding: 20px;
+    padding: 23px;
 }
 
 .titulo{
-    color: #ffffff;
-    margin: 0 0 5px;
+    color: #1ef70a;
+    margin: 0 0 7px;
 }
 
 .subtitulo{
-    color: #ffffff;
-    margin-top: 5px;
+    color: #462541;
+    margin-top: 7px;
 }

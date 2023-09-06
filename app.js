@@ -1,14 +1,24 @@
-alert("bem vindo🎮🕹") // comando de saida de infomação 
-
+alert("oi isso é uma mensagem ")
 /*
-Posso fazer um 
-comentario de varias 
-linhas */
+console.log("ola tudo bom")
 
-console.log("bem vindo🥽")
+alert(52/5)
 
-alert("A media é:")
+console.log(52/5)
 
-alert((8+7+9+2)/4)
+*/
 
-console.log((8+7+9+2)/4)
+nota1 = 10
+nota2 = 6.76
+nota3 = 4
+nota4 = 80
+
+
+console.log(" A media do joão é: ")
+
+//console.log(nota1 + nota2 + nota3 + nota4 +) /4)
+
+
+media = (nota1 + nota2 + nota3 + nota4 ) /4
+
+console.log(media)
